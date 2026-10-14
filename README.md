@@ -7,7 +7,7 @@ On the site: https://vovazakharov.com/music/hello
 ## Files
 
 - `hello_mix.mp3` — the mix, unmastered: what the master was made from.
-- `hello.mp3` — the master, as the site plays it.
+- `за_обложкой - Здравствуй.mp3` — the master, as the site plays it.
 - `hello.mp4` — the music video.
 - `mastering/` — the script that made the master: `master.py`, the `spectrum.py` it imports, and their `requirements.txt`.
 
